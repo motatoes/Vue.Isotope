@@ -113,7 +113,7 @@ Send when arrange is called on the isotope element with the corresponding `Objec
 Sort the isotope component with the corresponding `String` parameter.
 
 `filter (name)`<br>
-Sort the isotope component with the corresponding `String` parameter.
+Filter the isotope component with the corresponding `String` parameter.
 
 `layout (option)`<br>
 Change the layout of the isotope component using the option as layout name if option is `String` or with option object if option is `Object`.
